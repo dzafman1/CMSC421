@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/danielzafman/opt/miniconda3/bin/python3",
+  "editor.formatOnSave": true,
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.pylintPath": "pylint",
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+  "python.linting.pylintEnabled": true,
+  "python.linting.pycodestyleArgs": ["--ignore=E501"],
+  "files.exclude": {
+    "**/*.pyc": true
+}
